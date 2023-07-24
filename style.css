@@ -1,0 +1,68 @@
+body{
+    background-image: url(background.jpg);
+    margin: auto;
+    background-size: 100%;
+}
+
+.container{
+    width: 70%;
+    height: 70%;
+    background-color: rgb(0,0,0,0.5);
+    margin-left: 200px;
+    margin-top: 50px;
+    color: white;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+
+#logo{
+    width: 20%;
+    height: 20%;
+    padding-top: 40px;
+    padding-left: 375px;
+}
+
+header > h1{
+    color: rgb(0,255,0);
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(0,255,0);
+    height: 30px;
+    width: 80%;
+    margin: auto;
+}
+
+main {
+    padding-left: 10%;
+}
+
+.sottotitolo{
+    font-size: 30px;
+}
+
+section > span{
+    font-size: 14px;
+}
+
+#arancione{
+    background-color: orange;
+    color:orange;
+}
+
+span.batteria{
+    width: 80%;
+    border-radius: 5px;
+}
+
+#verde{
+    background-color: rgb(0,255,0);
+    color: rgb(0,255,0);
+}
+
+#rosso{
+    background-color: rgb(255,50,0);
+    color: rgb(255,50,0);
+}
+
